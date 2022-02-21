@@ -4,6 +4,7 @@
 システム概要<br>
 ・Google Firebaseに保存された自治体やJAの問い合わせ窓口や住所などをFlask上で表示するツール<br>
 ・現在はFlaskのdebugモードで作成しており、http://127.0.0.1:5000/にアクセスすることで起動できます。<br>
+・動作している画面はこちらhttps://drive.google.com/file/d/1h1sfwdCBSaBJSq7mc4uPm8zuRmCl9Ls6/view?usp=sharing<br>
 
 起動に必要なもの<br>
 ・Firebaseのアクセス用json<br>
